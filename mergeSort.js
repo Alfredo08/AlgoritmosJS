@@ -32,3 +32,5 @@ let numeros = [10, 5, 8, 1, 4, 2, 9, 3, 6, 7]
 
 console.log( mergeSort(numeros) );
 
+module.exports = mergeSort;
+
